@@ -4,8 +4,15 @@ An intelligent Smart Greenhouse monitoring and predictive analytics system integ
 
 ---
 ![Dashboard Preview](Dashboard.png)
-## Features
 
+---
+
+## 🎥 Dashboard Demo
+
+[▶️ Watch Smart Greenhouse Dashboard Demo](https://github.com/AdarshaAgriTech/smart-greenhouse-iot-ai-dashboard/blob/main/Smart%20Greenhouse%20Dashboard%20with%20Recent%20Trend%20in%20Temp%20and%20Rh.mp4)
+
+---
+## Features
 - Real-time IoT sensor monitoring
 - MQTT publish-subscribe communication
 - Live Streamlit dashboard
