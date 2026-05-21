@@ -64,6 +64,6 @@ An intelligent Smart Greenhouse monitoring and predictive analytics system integ
 
 ## Author
 
-**Adarsha Gopalakrishna Bhat**
-Ph.D. (Soil and Water Conservation Engineering)  
+**Adarsha Gopalakrishna Bhat**  
+Ph.D. Scholar (soil and Water Conservation Engineering)  
 ICAR-Indian Agricultural Research Institute (ICAR-IARI), New Delhi
