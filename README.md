@@ -3,7 +3,7 @@
 An intelligent Smart Greenhouse monitoring and predictive analytics system integrating MQTT, Streamlit, SQLite, Plotly, and Machine Learning for real-time environmental monitoring, actuator control analytics, and next-hour climate prediction.
 
 ---
-
+![Dashboard Preview](dashboard.png)
 ## Features
 
 - Real-time IoT sensor monitoring
